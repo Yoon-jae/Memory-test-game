@@ -9,6 +9,6 @@ When the light is turn on by random sequence, then you push down the switch that
 
 There are 5 stages in game.</br>
 
-Just compile options : gcc -o gameStart hw05.c -lwiringPi -lpthread</br>
+compile options : gcc -o gameStart memory-test-game.c -lwiringPi -lpthread</br>
 
 Enjoy the game!!</br>
